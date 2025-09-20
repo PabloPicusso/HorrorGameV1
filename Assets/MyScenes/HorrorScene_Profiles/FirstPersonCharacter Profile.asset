@@ -21,7 +21,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1.4
+    value: 1.6
   color:
     overrideState: 0
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -39,7 +39,7 @@ MonoBehaviour:
     value: -12
   thicknessModifier:
     overrideState: 1
-    value: 1
+    value: 7.87
   zBias:
     overrideState: 0
     value: 0.0001
@@ -75,14 +75,14 @@ MonoBehaviour:
     overrideState: 1
     value: {r: 0, g: 0, b: 0, a: 1}
   center:
-    overrideState: 1
+    overrideState: 0
     value: {x: 0.5, y: 0.5}
   intensity:
     overrideState: 1
-    value: 0.41
+    value: 0.544
   smoothness:
     overrideState: 1
-    value: 0.09
+    value: 0.271
   roundness:
     overrideState: 1
     value: 0.911
@@ -117,10 +117,10 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 0.352
+    value: 0.481
   size:
     overrideState: 1
-    value: 0.55
+    value: 1
   lumContrib:
     overrideState: 1
     value: 0.8
@@ -254,7 +254,7 @@ MonoBehaviour:
     value: 0
   saturation:
     overrideState: 1
-    value: -13
+    value: 31.5
   brightness:
     overrideState: 0
     value: 0
